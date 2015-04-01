@@ -1,0 +1,38 @@
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.dll.config
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.dll
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.pdb
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.dll.manifest
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.vsto
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\ResolveAssemblyReference.cache
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Properties.Resources.resources
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Ribbon1.resources
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.UserControl1.resources
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\GenerateResource.read.1.tlog
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\GenerateResource.write.1.tlog
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.dll
+c:\users\michyama\documents\visual studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.pdb
+C:\Users\michyama\Documents\Visual Studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Form1.resources
+C:\Users\michyama\Documents\Visual Studio 2010\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Form2.resources
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.dll.config
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.dll
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.pdb
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.dll.manifest
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\OutlookAddIn2.vsto
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Form1.resources
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Form2.resources
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Properties.Resources.resources
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.Ribbon1.resources
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.UserControl1.resources
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.dll
+C:\Users\michyama\Desktop\Google Drive\Projects\OutlookAddIn2\OutlookAddIn2\obj\Debug\OutlookAddIn2.pdb
